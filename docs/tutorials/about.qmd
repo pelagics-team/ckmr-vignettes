@@ -1,0 +1,7 @@
+These tutorials are meant to accompany the exercises presented in 
+the CKMR workshop. 
+
+All exercise files can be found on the workshop repository here: 
+
+Not all code is shown for clarity, click on the 
+"Code" link to the left to see hidden code.
